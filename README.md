@@ -5,7 +5,6 @@ The main purpose of the project is to complete the training of the target detect
 
 - [Introduction](#Introduction)
 - [Install](#Install)
-- [File Structure](#File Structure)
 - [Instructions](#Instructions)
 
 ## Introduction
@@ -44,7 +43,7 @@ git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
 
-4. YOLOv8
+4.YOLOv8
 
 pip install ultralytics
 
